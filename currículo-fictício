@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MeuCurrículo</title>
+  </head>
+  <body>
+     <h1>Informações Pessoais:</h1> 
+    <h2>Nome completo:</h2> 
+       <p>Augusto Rodrigues de Santos Assunção</p>
+    <h2>Endereço:</h2>
+       <p>Rua Castro Alves 92B Serrano</p>
+    <h2>Telefone:</h2>
+       <p>31 98398-0887</p>
+    <h2>E-mail:</h2>
+       <p>assuncaoaugusto99@gmail.com</p>
+    <br />
+
+    <h1>Objetivo Profissional:</h1>
+    <p>
+      Desenvolvedor de software com 5 anos de experiência em desenvolvimento web
+      e mobile, buscando integrar a equipe da Google para contribuir com
+      habilidades em tecnologias específicas, como JavaScript, HTML, CSS e
+      melhorar continuamente a performance de sistemas e colaborar na criação de
+      soluções inovadoras que atendam às necessidades dos clientes. Comprometido
+      com as melhores práticas de desenvolvimento ágil, testes automatizados e
+      entrega contínua de valor.
+    </p>
+
+    <h1>Habilidades:</h1>
+    <ul>
+       <li>
+
+          <h2> Desenvolvimento Web: </h2> 
+        
+           <li> HTML, CSS, JavaScript, React, Angular, Vue.js </li> 
+       
+    </ul>
+
+    <ul>
+        <li>
+           <h2> Habilidades Interpessoais:</h2>
+
+           <li> Colaboração em equipe, comunicação eficaz, resolução de problemas, gestão de tempo </li>
+        </li>
+
+    </ul>
+  
+<h1> Idiomas: </h1>
+
+<ul> 
+     <li> Inglês avançado </li>
+     <li> Espanhol  intermediário</li>
+
+</ul>
+<h1> Certificações e Cursos: </h1>
+     <ul> 
+         <li> Desenvolvedor  Full Stack
+            Infinity School, Belo Horizonte
+        </li>
+        <li> Curso intensivo de 13 meses cobrindo desenvolvimento com foco em tecnologias modernas e práticas de desenvolvimento ágil.</li>
+
+    </ul>
+
+
+</body>
+</html>
